@@ -1,0 +1,23 @@
+Ginv                    Compute Generalized Inverse of Input Matrix 
+allele.recode           Recode allele values to integer ranks 
+gcode                   Numeric Code for Genotypes 
+geno.recode             Recode Genotypes 
+haplo.em                EM Computation of Haplotype Probabilities 
+haplo.enum              Enumerate all possible pairs of haplotypes that
+                        are consistent with a set of un-phased
+                        multilocus markers 
+haplo.hash              Integer Rank Codes for Haplotypes 
+haplo.score             Score Statistics for Association of Traits with
+                        Haplotypes 
+haplo.score.glm         Compute haplotype score statistics for GLM 
+haplo.score.podds       Compute Haplotype Score Statistics for Ordinal
+                        Traits with Proportional Odds Model 
+hla.demo                HLA Gene Variantion and Serologic Response to
+                        Measles Vaccination
+locator.haplo           Find Location from Mouse Clicks and Print
+                        Haplotypes on Plot 
+plot.haplo.score        Plot Haplotype Frequencies versus Haplotype
+                        Score Statistics 
+print.banner            Print a nice banner 
+print.haplo.score       Print a haplo.score object 
+ungcode                 Uncode Numeric Genotype Codes to Alleles 
